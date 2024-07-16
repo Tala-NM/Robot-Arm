@@ -33,4 +33,4 @@ Here are different views of the robotic arm design:
 
 ## 3D Design Link
 
-You can view the 3D design ![here]([your-tinkercad-design-link](https://www.tinkercad.com/things/2GPhAyvTgFL-grand-jarv/edit?sharecode=3VQWS04c8gVXVozofN4SAiQKK1LJMweBjdRCKp5rgiU)).
+You can view the 3D design [here](https://www.tinkercad.com/things/2GPhAyvTgFL-grand-jarv/edit?sharecode=3VQWS04c8gVXVozofN4SAiQKK1LJMweBjdRCKp5rgiU).
